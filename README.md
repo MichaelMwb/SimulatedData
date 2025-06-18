@@ -1,6 +1,8 @@
 # SimulatedData
 📄 Dataset Description: Statistical_Model_of_Revision_vs_ExamScore.csv
+
 📊 Overview
+
 This dataset simulates the relationship between the amount of revision time spent studying and the resulting exam score. It is designed to model real-world educational scenarios using a controlled linear regression framework with added random noise.
 
 🧪 Data Generation Process
