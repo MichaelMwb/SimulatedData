@@ -7,6 +7,7 @@ This dataset simulates the relationship between the amount of revision time spen
 The data was generated using the following statistical model:
 
 𝑌 = 44.54 + 0.555𝑋 + 𝜀, where 𝜀∼𝑁(0,6.3542^2)
+
 X: revision time in minutes (fixed across trials)
 Y: exam score
 ε: normally distributed random error simulating variability in test performance
