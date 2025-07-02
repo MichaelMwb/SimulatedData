@@ -23,8 +23,6 @@ Three independent trials were simulated using the same revision times but differ
 Each trial contains 17 observations, totaling 51 observations across:
 
 Trial 1
-
 Trial 2
-
 Trial 3
 
